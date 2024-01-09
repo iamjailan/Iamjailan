@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jailan Mirkhel</h1>
-<h3 align="center">A passionate full-stack web developer from Afghanistan</h3>
+<h3 align="center">A passionate Full-Stack Next.js/MERN web developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjailan&label=Profile%20views&color=0e75b6&style=flat" alt="iamjailan" /> </p>
 
